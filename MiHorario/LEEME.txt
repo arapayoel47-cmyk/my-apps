@@ -1,0 +1,10 @@
+MI HORARIO YOVEL
+
+Aplicación completa tipo PWA. Guarda el horario únicamente en el celular y funciona sin internet después de instalarse.
+
+Para probarla en una computadora:
+1. Abra una terminal dentro de esta carpeta.
+2. Ejecute: python3 -m http.server 8080
+3. Abra http://localhost:8080
+
+Para instalarla como aplicación en Android debe publicarse en un sitio HTTPS y abrirse con Chrome; luego use “Agregar a pantalla principal” o “Instalar aplicación”. También puede envolverse en un proyecto Android para generar un APK firmado.
